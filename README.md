@@ -11,3 +11,5 @@ https://passper.imyfone.com/windows-10/windows-10-product-key-free/
 cd c:\office 2019
 
 setup.exe /configure configuration.xml
+
+Ospprearm.exe
