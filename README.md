@@ -12,4 +12,6 @@ cd c:\office 2019
 
 setup.exe /configure configuration.xml
 
+// run program file 
+
 Ospprearm.exe
