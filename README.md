@@ -12,6 +12,13 @@ cd c:\office 2019
 
 setup.exe /configure configuration.xml
 
-// run program file 
+// go to program file 
 
 Ospprearm.exe
+
+// run ( window + R )
+1. Temp
+2. %temp%
+3. Prefetch
+4. Cleanmgr
+   
