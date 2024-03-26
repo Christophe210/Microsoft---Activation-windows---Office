@@ -7,6 +7,7 @@ These keys work for all versions of Windows and can be used for free.
 https://passper.imyfone.com/windows-10/windows-10-product-key-free/
 
 
+// run ( window + R )
 
 cd c:\office 2019
 
