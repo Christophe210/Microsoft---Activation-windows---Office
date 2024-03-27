@@ -6,6 +6,7 @@ These keys work for all versions of Windows and can be used for free.
 
 https://passper.imyfone.com/windows-10/windows-10-product-key-free/
 
+Just download the file of office 2019 & keep it on local disk C, and then follow the steps after reboot your pc
 
 // run ( window + R )
 
