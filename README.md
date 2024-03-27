@@ -14,9 +14,11 @@ cd c:\office 2019
 
 setup.exe /configure configuration.xml
 
-// go to program file 
+If your office is not activated just do this : 
 
-Ospprearm.exe
+// go to program file & search ( Ospprearm.exe ) and then " Run as administator, and after reboot.
+
+Ospprearm.exe 
 
 // run ( window + R )
 1. Temp
