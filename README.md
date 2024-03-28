@@ -25,4 +25,9 @@ Ospprearm.exe
 2. %temp%
 3. Prefetch
 4. Cleanmgr
+
    
+How to Check PC Serial number or Product ID
+// run ( window + R )
+wmic bios get serialnumber
+
