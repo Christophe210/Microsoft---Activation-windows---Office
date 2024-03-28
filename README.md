@@ -28,6 +28,8 @@ Ospprearm.exe
 
    
 How to Check PC Serial number or Product ID
+
 // run ( window + R )
+
 wmic bios get serialnumber
 
