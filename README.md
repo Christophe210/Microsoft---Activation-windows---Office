@@ -33,4 +33,7 @@ How to Check PC Serial number or Product ID
 
 wmic bios get serialnumber
 
+Logo maker 
+https://smashinglogo.com/thanks-trial/
+
 
