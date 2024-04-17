@@ -36,4 +36,7 @@ wmic bios get serialnumber
 Logo maker 
 https://smashinglogo.com/thanks-trial/
 
+Remove logo maker :
+https://www.watermarkremover.io/
+
 
