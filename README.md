@@ -39,4 +39,8 @@ https://smashinglogo.com/thanks-trial/
 Remove logo maker :
 https://www.watermarkremover.io/
 
+Linux Turn on COMMAND: 
+sudo fsck /dev/nvme0n1p2                  , THEN YOU FOLLOW INFO
+
+
 
