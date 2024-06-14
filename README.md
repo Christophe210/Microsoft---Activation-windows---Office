@@ -42,5 +42,7 @@ https://www.watermarkremover.io/
 Linux Turn on COMMAND: 
 sudo fsck /dev/nvme0n1p2                  , THEN YOU FOLLOW INFO
 
+google business profile manager login :
 
+https://www.google.com/search?q=Tsinda+Media&stick=H4sIAAAAAAAA_-NgU1I1qDC0TElONE1MNkhNSjVJSk2xMqgwTzJLMzNIMzEzTk22TEpJWcTKE1KcmZeSqOCbmpKZCABJb7KSOAAAAA&hl=en&mat=CbFt1DIAyVncElcBezTaAWoHjxjR5gTQcRNTiGS0IWT9GNJVvLHva_1js5ACQ6LD-c7bY40k4B5TXkdx0IFAiEpBiHhDo5P-xhrRpzGrG0acpes0AOvO-oNe9QUnGO7QyZ8&authuser=0
 
